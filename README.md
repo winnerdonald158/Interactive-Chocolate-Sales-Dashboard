@@ -37,8 +37,6 @@ This also identifies which salespeople is contributing to business growth.
 This dashboard helps management identify top-performing products and employees, making it easier to reward performance and optimize sales strategy.
 
 Files Included  
-- Raw data
-- Clean data
-- Dashboard 
+- Raw data 
 - Cleaned data  
 - Dashboard screenshot  
